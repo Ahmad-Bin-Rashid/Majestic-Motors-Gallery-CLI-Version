@@ -1,0 +1,15 @@
+Toyota,Corolla,10,2500000
+Honda,Civic,8,3000000
+Suzuki,Alto,15,1500000
+Hyundai,Tucson,5,4500000
+Kia,Sportage,7,4000000
+Toyota,Fortuner,3,8000000
+Honda,City,12,2800000
+Suzuki,Wagon R,20,1600000
+Hyundai,Elantra,6,3200000
+Kia,Picanto,10,1800000
+Toyota,Yaris,14,2700000
+Honda,BR-V,4,3700000
+Suzuki,Bolan,8,1200000
+Hyundai,Santa Fe,2,9000000
+Kia,Carnival,1,9500000

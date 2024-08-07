@@ -1,0 +1,20 @@
+Engine Oil,50,3000
+Air Filter,100,1500
+Brake Pads,75,4000
+Spark Plugs,60,2000
+Car Battery,40,8000
+Wiper Blades,80,1000
+Tyres,30,25000
+Seat Covers,25,5000
+Car Mats,90,1200
+Headlights,20,7000
+Tail Lights,25,6000
+Car Wax,50,1500
+Car Shampoo,70,1000
+GPS Navigation System,10,25000
+Car Stereo,15,20000
+Roof Rack,5,15000
+Dash Cam,30,10000
+Backup Camera,20,8000
+Alloy Wheels,10,50000
+Car Cover,40,3000
